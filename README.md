@@ -1,6 +1,6 @@
 # ResNet-on-CIFAR10
 
-I made this project to improve the performance of CNN model on CIFAR10 dataset.
+I made this project to improve the performance of CNN model on CIFAR10 dataset. I implemented complete ResNet9 architecture from scratch to understand the exact working of ResNet models.
 
 I got 75% accuracy in CNN model, but when I tried ResNet9 architecture on CIFAR10 dataset I got 80% validation accuracy just after 6 epochs.
 
